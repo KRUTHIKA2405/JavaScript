@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array Operations</title>
+</head>
+<body>
+    <h1>Array Operations 🔢</h1>
+    <button onclick="showResults()">Run Array Functions</button>
+    <pre id="output"></pre>
+
+    <script src="script.js"></script>
+</body>
+</html>
