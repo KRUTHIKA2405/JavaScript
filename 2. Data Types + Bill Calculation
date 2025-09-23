@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Store</title>
+</head>
+<body>
+    <h1>Mini Online Store 🛒</h1>
+    <label>Item Price: <input type="number" id="price" value="50"></label><br>
+    <label>Quantity: <input type="number" id="quantity" value="1"></label><br>
+    <button onclick="calculateBill()">Calculate Bill</button>
+    <p id="bill"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
